@@ -1,0 +1,1 @@
+javascript:void(location.href = "vlc-x-callback://x-callback-url/stream?url=" + encodeURIComponent(location.href));
